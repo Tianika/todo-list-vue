@@ -1,0 +1,7 @@
+export const GET_USER = 'GET_USER'
+export const SAVE_USER = 'SAVE_USER'
+export const REMOVE_USER = 'REMOVE_USER'
+export const GET_TODOS = 'GET_TODOS'
+export const SAVE_TODOS = 'SAVE_TODOS'
+export const CHANGE_TODOS = 'CHANGE_TODOS'
+export const REMOVE_TODOS = 'REMOVE_TODOS'
